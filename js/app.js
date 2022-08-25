@@ -16,7 +16,7 @@ let gameFinished = false;
 function printResult()
 {
     let x = document.getElementsByClassName('Score')[0];
-    x.innerHTML = "<p>"+"7ambola         " + " VS " + '\t \t' + "         Z3blawy         " + "</p>";
+    x.innerHTML = "<p>"+"7ambola         " + " VS " + '\t \t' + "         Z3bola         " + "</p>";
     x.innerHTML += "<p>"+ P1 + '\t \t' + Tie + '\t \t' + P2 + "</p>";
 }
 
